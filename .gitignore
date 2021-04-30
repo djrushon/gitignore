@@ -1,4 +1,4 @@
-:# Ignore sigle file
+# Ignore sigle file
 new-file.txt
 
 # Ignore all files in the bin directory
